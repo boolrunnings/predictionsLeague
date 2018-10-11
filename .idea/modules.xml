@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hockeyscraper/hockeyscraper.iml" filepath="$PROJECT_DIR$/hockeyscraper/hockeyscraper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/predictionsleague.iml" filepath="$PROJECT_DIR$/predictionsleague.iml" />
+    </modules>
+  </component>
+</project>
